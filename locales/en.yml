@@ -41,7 +41,7 @@ en:
     koans-online:
       title: With the Ruby Koans Online,
       red-explanation: >
-        the tests will start in the failing state (background is <span class="green">green</span>)
+        the tests will start in the failing state (background is <span class="red">red</span>)
       green-explanation: >
         type what you expect the result(s) to be in the input box(es) provided to make the test pass (
         background becomes <span class="green">green</span>)
