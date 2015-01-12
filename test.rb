@@ -70,7 +70,7 @@ def edgecaser_images
   require 'net/http'
   require 'uri'
 
-  url = URI.parse('http://edgecase.com/')
+  url = URI.parse('http://neo.com/')
   res = Net::HTTP.start(url.host, url.port) {|http| http.get('/about') }
   res.body.scan(/\/images\/team\/\w*?\.jpg/)
 end
