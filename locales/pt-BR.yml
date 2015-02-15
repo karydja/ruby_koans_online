@@ -1,0 +1,92 @@
+pt-BR:
+  terms:
+    red: vermelho
+    green: verde
+    refactor: refatorar
+  intro:
+    start: Começar os Koans >>
+    title: Ruby Koans Online
+    koans: >
+      Os Ruby Koans são uma ótima forma de aprender sobre a linguagem Ruby
+    koans-online: >
+      Os Ruby Koans <em>Online</em> são uma forma resumida dos Koans, na conveniência de um navegador.
+    suggestion: >
+      Entretanto, se essa é a sua primeira vez com os Koans, recomendamos que você
+      leia a introdução abaixo para entender como eles funcionam.
+  issues:
+    title: Problemas conhecidos
+    chrome: >
+      No Chrome, clicar no botão de voltar do navegador enquanto você está na página de erro
+      fará com que algumas de suas respostas sejam apagadas.
+      Atualize a página após clicar no botão de voltar do navegador
+      para que o Chrome coloque suas respostas de volta nos locais adequados
+      ou simplesmente não use o Chrome.
+      <a href='https://github.com/neo/ruby_koans_online/issues/10#issuecomment-4678002' target='_blank'>Problema Documentado</a>
+    contact: >
+      Caso você encontre qualquer outro problema enquanto utiliza o Ruby Koans Online, por favor nos contate
+      através do botão Contato no canto superior direito da janela.
+    thanks: Obrigado, a equipe do Ruby Koans Online
+  path:
+    title: O Caminho para a Iluminação
+    explanation: >
+      Cada página consiste em um número de testes que você precisará completar e informações que possam vir a ser
+      necessárias para fazer o teste passar. Você pode executar os testes clicando a qualquer momento no botão Meditar
+      ou pressionando Enter enquanto preenche qualquer um dos testes.
+    subtitle: Vermelho, Verde, Refatorar
+    tdd:
+      title: No desenvolvimento orientado a testes (TDD) o mantra sempre foi
+      red-explanation: escrever um teste falho e executá-lo
+      green-explanation: escrever apenas código suficiente para que o teste passe, e
+      refactor-explanation: avaliar o código para ver se ele pode ser melhorado
+    koans-online:
+      title: Com os Ruby Koans Online,
+      red-explanation: >
+        os testes começarão falhando (cor de fundo <span class="red">vermelho</span>)
+      green-explanation: >
+        digite o que você espera do(s) resultado(s) na(s) caixa(s) de texto disponível(is) para fazer o teste passar (a
+        cor de fundo se torna <span class="green">verde</span>)
+      refactor-explanation: >
+        então tire um tempo para refletir sobre o teste, o que ele está ensinando a você e, caso seja solicitado,
+        melhore o código a fim de deixá-lo mais claro (<span class="refactor">refatorar</span>)
+
+    green:
+      title: O caminho da felicidade
+      explanation: >
+        Por exemplo, digite <i>true</i> na caixa de texto abaixo e então clique no botão Meditar, ou pressione Enter,
+        para que a cor de fundo se torne verde.
+    red:
+      title: Desviando do caminho
+      explanation: >
+        Se os resultados não forem o que você esperava, os Koans te guiarão de volta ao caminho da iluminação com uma dica.
+        <br/>
+        Digite <i>false</i> na caixa de texto abaixo para ver a dica revelada.
+      question: <em>Espera aí, mas ele disse que esperava <u>false</u>! Como assim!?</em>
+      answer: >
+        A expressão vem do framework TestUnit.
+        No TDD você escreverá um teste com uma expectativa de como o código deve se comportar,
+        e então escreverá o código em si que fará o teste passar.<br/>
+        <br/>
+        Isso pode parecer confuso no caso dos Ruby Koans, onde a maior parte dos testes já é escrita para você.<br/>
+        Nos Koans <em>você</em> informa o que está esperando como resposta, e então o framework de testes confronta as <em>suas</em>
+        expectativas com os resultados reais.
+
+  world:
+    title: O mundo dos Koans
+    explantion: >
+      Os koans são divididos em áreas, explorando temas como hashes, módulos e classes.
+      Cada um deles é apresentado em sua própria página.
+      Cada koan aumenta seu conhecimento sobre Ruby e utiliza conhecimentos adquiridos nos anteriores.
+
+  end:
+    title: FIM
+    explanation: Os Ruby Koans elevaram sua consciência.
+    team: A EQUIPE
+
+  actions:
+    click_to_submit: Clique para submeter a sua Meditação ou pressione Enter enquanto estiver no formulário.
+    meditate: Meditar
+
+  next:
+    heighten: elevou sua consciência.
+    complete: completo
+    meditate-on: Medite sobre
